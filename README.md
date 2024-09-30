@@ -1,6 +1,7 @@
 # Olá! 👋
 
-Sou Valcir Xaves, um entusiasta apaixonado por programação, tecnologia e inteligência artificial. Minha curiosidade insaciável me impulsiona a explorar constantemente as fronteiras dessas áreas fascinantes e em rápida evolução. 🚀💻
+Me chamo Valcir Xaves, sou um entusiasta apaixonado por Programação, Design e Inteligência Artificial. 
+Minha curiosidade insaciável me impulsiona a explorar constantemente as fronteiras dessas áreas fascinantes e em rápida evolução.
 
 ## Sobre mim
 - 🌱 Atualmente, estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades em programação.
